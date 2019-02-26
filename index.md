@@ -6,7 +6,7 @@ DDS does not always make it easy for Dartmouth students to optimize their dining
 
 Merge the need for a better way to interface with DDS options and the need for a better way to crowdsource information about free food opportunities and the single solution is **Food On Campus**. Food On Campus is a user-friendly way to consolidate all Dartmouth eating resources in one space!
 
-![Class of 53 Commons (Foco)](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjhs4u6ztjgAhVIT98KHVImDmMQjRx6BAgBEAU&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fdartmouthflickr%2F6483256215&psig=AOvVaw0F89K484GXR9AhJPmYZRdn&ust=1551243442581928)
+![Class of 53 Commons (Foco)](https://c2.staticflickr.com/8/7167/6483256215_5e13cb79d0_b.jpg)
 
 ### Markdown
 
