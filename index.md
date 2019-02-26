@@ -18,10 +18,10 @@ Merge the need for a better way to interface with DDS options and the need for a
 
 Email us at: 
 
-[Alec Cobban](alec.b.cobban.19@dartmouth.edu)
+Alec Cobban: alec.b.cobban.19@dartmouth.edu
 
-[Arvind Suresh](arvind.suresh.19@dartmouth.edu)
+Arvind Suresh: arvind.suresh.19@dartmouth.edu
 
-[Casey Baer](casey.r.baer.gr@dartmouth.edu)
+Casey Baer: casey.r.baer.gr@dartmouth.edu
 
-[Shannon Ropp](shannon.a.ropp.19@dartmouth.edu)
+Shannon Ropp: shannon.a.ropp.19@dartmouth.edu
