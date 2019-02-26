@@ -6,35 +6,13 @@ DDS does not always make it easy for Dartmouth students to optimize their dining
 
 Merge the need for a better way to interface with DDS options and the need for a better way to crowdsource information about free food opportunities and the single solution is **Food On Campus**. Food On Campus is a user-friendly way to consolidate all Dartmouth eating resources in one space!
 
-![Class of 53 Commons (Foco)](https://c2.staticflickr.com/8/7167/6483256215_5e13cb79d0_b.jpg)
+### Features
 
-### Markdown
+* View free food as a list sorted by distance from current location or on a map
+* Add free food at the touch of a button so that other people can also enjoy and less food goes to waste
+* When free food is gone, remove the entry from the server
+* Get notified when you are close to free food!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShannonRopp/CS65/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
