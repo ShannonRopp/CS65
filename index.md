@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Food On Campus 
 
-You can use the [editor on GitHub](https://github.com/ShannonRopp/CS65/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Dining is a huge part of any college life, but a small town like Hanover does not have the abundance of restuarants that larger cities have to offer. That being said, there are not many food options outside the scope of Dartmouth Dining Services (DDS). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+DDS does not always make it easy for Dartmouth students to 
 
 ### Markdown
 
