@@ -1,10 +1,18 @@
 ## Food On Campus 
+#### An intuitive way to navigate Dartmouth Dining Services
 
-Dining is a huge part of any college life, but a small town like Hanover does not have the abundance of restuarants that larger cities have to offer. That being said, there are not many food options outside the scope of Dartmouth Dining Services (DDS). 
+Dining is a huge part of any college life, but a small town like Hanover does not have the abundance of restuarants that larger cities have to offer. 
+That being said, there are not many food options outside the scope of Dartmouth Dining Services (DDS). 
 
-DDS does not always make it easy for Dartmouth students to optimize their dining experience. Regular specials at main dining halls (Foco, Collis, and Courtyard Café) are buried in submenus on websites. Additionally, oftentimes there are events which provide free food for students at various locations on campus. At one point, instances of these free foods were communicated to a substatianal group on campus through the "Free Food" GroupMe. For various reasons, this was not the correct platform to communincate relevant food information. 
+DDS does not always make it easy for Dartmouth students to optimize their dining experience. 
+Regular specials at main dining halls (Foco, Collis, and Courtyard Café) are buried in submenus on DDS websites. 
+Additionally, there are oftentimes events which provide free food for students at various locations on campus. 
+However, there is no consolidated method to get information about this free food. 
+At one point, instances of these free foods were communicated to a substatianal portion of campus through the "Free Food" GroupMe. 
+For various reasons, this was not the correct platform to communincate relevant food information. 
 
-Merge the need for a better way to interface with DDS options and the need for a better way to crowdsource information about free food opportunities and the single solution is **Food On Campus**. Food On Campus is a user-friendly way to consolidate all Dartmouth eating resources in one space!
+Merge the need for a better way to interface with DDS options and the need for a better way to crowdsource information about free food opportunities and the single solution is **Food On Campus**. 
+Food On Campus is a user-friendly way to consolidate all Dartmouth eating resources in one space!
 
 ### Features
 
