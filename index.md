@@ -16,4 +16,8 @@ Merge the need for a better way to interface with DDS options and the need for a
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email us at: 
+[Alec Cobban](alec.b.cobban.19@dartmouth.edu)
+[Arvind Suresh](arvind.suresh.19@dartmouth.edu)
+[Casey Baer](casey.r.baer.gr@dartmouth.edu)
+[Shannon Ropp](shannon.a.ropp.19@dartmouth.edu)
