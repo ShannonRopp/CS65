@@ -16,7 +16,8 @@ Food On Campus is a user-friendly way to consolidate all Dartmouth eating resour
 
 ### Features
 
-* View free food as a list sorted by distance from current location or on a map
+* View free food and open DDS dining locations on an interactive map
+* View DDS menu specials along with allergens and dietary restrictions
 * Add free food at the touch of a button so that other people can also enjoy and less food goes to waste
 * When free food is gone, remove the entry from the server
 * Get notified when you are close to free food!
