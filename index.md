@@ -23,7 +23,7 @@ Food On Campus is a user-friendly way to consolidate all Dartmouth eating resour
 
 ### Show and Tell 1
 
-Download the APK Here: https://bitly.is/1g3AhR6
+Download the APK Here: https://tinyurl.com/foodoncampuschk1
 
 ### Support or Contact
 
