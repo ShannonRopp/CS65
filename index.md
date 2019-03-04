@@ -30,10 +30,18 @@ Download the APK [Here](https://tinyurl.com/foodoncampuschk1)
 
 Email us at: 
 
+![](https://github.com/ShannonRopp/CS65/blob/master/Alec.jpg)
+
 Alec Cobban: alec.b.cobban.19@dartmouth.edu
+
+![](https://github.com/ShannonRopp/CS65/blob/master/Arvind.jpg)
 
 Arvind Suresh: arvind.suresh.19@dartmouth.edu
 
+![](https://github.com/ShannonRopp/CS65/blob/master/Casey.jpg)
+
 Casey Baer: casey.r.baer.gr@dartmouth.edu
+
+![](https://github.com/ShannonRopp/CS65/blob/master/Shannon.jpg)
 
 Shannon Ropp: shannon.a.ropp.19@dartmouth.edu
