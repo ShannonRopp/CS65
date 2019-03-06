@@ -32,7 +32,7 @@ Download the Final Project APK [Here](https://drive.google.com/file/d/1au26o0qeT
 
 ### Project Zip File
 
-Download the Android Studio Project either from [Github] (https://github.com/Kephael/COSC_65_Project) or directly from [Here] (https://drive.google.com/file/d/1mDVLwJvFIP-SI_Y-GrVdJzZicW6mdLk0/view?usp=sharing)
+Download the Android Studio Project either from [Github](https://github.com/Kephael/COSC_65_Project) or directly from [Here](https://drive.google.com/file/d/1mDVLwJvFIP-SI_Y-GrVdJzZicW6mdLk0/view?usp=sharing)
 
 ### Original Pitch
 
