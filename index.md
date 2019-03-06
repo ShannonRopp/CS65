@@ -26,6 +26,18 @@ Food On Campus is a user-friendly way to consolidate all Dartmouth eating resour
 
 Download the APK [Here](https://tinyurl.com/foodoncampuschk1)
 
+### Original Pitch
+
+See Alec's original pitch for Food On Campus [here](https://docs.google.com/presentation/d/1QvdFvqGm-C87ybNjyPfVB344OHGPpxPpDGZ5PR9jMEQ/edit?usp=sharing)
+
+### MVC Diagram 
+
+View our MVC [diagram](https://docs.google.com/presentation/d/1l6hYCcAYqn51LmMGz9023cZ2ZlTTfnewfqNKfOVgdQQ/edit?usp=sharing)
+
+### Presentation
+
+See our presentation [here](https://docs.google.com/presentation/d/1sjiCIFkn23gA9nwI-PltsAro7yBVyxVKkIie2bWAgv4/edit?ts=5c7f9752#slide=id.g51dbe47580_1_0)
+
 ### Support or Contact
 
 Email us at: 
