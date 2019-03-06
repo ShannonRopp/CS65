@@ -18,13 +18,10 @@ Food On Campus is a user-friendly way to consolidate all Dartmouth eating resour
 
 * View free food and open DDS dining locations on an interactive map
 * View DDS menu specials along with allergens and dietary restrictions
+* Rate both DDS menu specials and free food items, and also view average ratings
 * Add free food at the touch of a button so that other people can also enjoy and less food goes to waste
-* When free food is gone, remove the entry from the server
+* Report when free food is gone so you don't go looking for food that is already gone
 * Get notified when you are close to free food!
-
-### Show and Tell 1
-
-Download the APK [Here](https://tinyurl.com/foodoncampuschk1)
 
 ### Demo or Die APK
 
