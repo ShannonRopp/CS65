@@ -57,8 +57,8 @@ Arvind Suresh: _View and User Interactions, Controller and Activity Design_ arvi
 
 <img src="images/Casey.jpg" alt="hi" class="inline"/>
 
-Casey Baer: _Backend and Database Design:_ casey.r.baer.gr@dartmouth.edu
+Casey Baer: _Backend and Database Design_ casey.r.baer.gr@dartmouth.edu
 
 <img src="images/shan.jpg" alt="hi" class="inline"/>
 
-Shannon Ropp: _Service and XML Designs_ shannon.a.ropp.19@dartmouth.edu
+Shannon Ropp: _Service, XML Designs, views_ shannon.a.ropp.19@dartmouth.edu
