@@ -49,16 +49,20 @@ Email us at:
 
 <img src="images/Alec.jpg" alt="hi" class="inline"/>
 
-Alec Cobban: _Models, HTTP Interfacing, and Vector Graphic Design_ alec.b.cobban.19@dartmouth.edu
+Alec Cobban: _Models, HTTP Interfacing, and Vector Graphic Design_ 
+alec.b.cobban.19@dartmouth.edu
 
 <img src="images/Arvind.jpg" alt="hi" class="inline"/>
 
-Arvind Suresh: _View and User Interactions, Controller and Activity Design_ arvind.suresh.19@dartmouth.edu
+Arvind Suresh: _View and User Interactions, Controller and Activity Design_ 
+arvind.suresh.19@dartmouth.edu
 
 <img src="images/Casey.jpg" alt="hi" class="inline"/>
 
-Casey Baer: _Backend and Database Design_ casey.r.baer.gr@dartmouth.edu
+Casey Baer: _Backend and Database Design_ 
+casey.r.baer.gr@dartmouth.edu
 
 <img src="images/shan.jpg" alt="hi" class="inline"/>
 
-Shannon Ropp: _Service, XML Designs, views_ shannon.a.ropp.19@dartmouth.edu
+Shannon Ropp: _Notification Service, XML Designs, Custom Views_ 
+shannon.a.ropp.19@dartmouth.edu
